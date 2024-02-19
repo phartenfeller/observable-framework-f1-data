@@ -2,7 +2,7 @@
 
 I made a [YouTube tutorial](https://youtu.be/mg8pNBnMOcI) on Observable Framework and this is the result.
 
-
+## Observble Framework
 
 This is an [Observable Framework](https://observablehq.com/framework) project. To start the local preview server, run:
 
