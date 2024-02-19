@@ -2,6 +2,8 @@
 
 I made a [YouTube tutorial](https://youtu.be/mg8pNBnMOcI) on Observable Framework and this is the result.
 
+Check out [this report](https://github.com/phartenfeller/observable-framework-f1-data/blob/main/docs/f1report.md) I created.
+
 ## Observble Framework
 
 This is an [Observable Framework](https://observablehq.com/framework) project. To start the local preview server, run:
