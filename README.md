@@ -1,5 +1,9 @@
 # F1data App
 
+I made a [YouTube tutorial](https://youtu.be/mg8pNBnMOcI) on Observable Framework and this is the result.
+
+
+
 This is an [Observable Framework](https://observablehq.com/framework) project. To start the local preview server, run:
 
 ```
@@ -43,11 +47,11 @@ A typical Framework project looks like this:
 
 ## Command reference
 
-| Command           | Description                                              |
-| ----------------- | -------------------------------------------------------- |
-| `yarn install`            | Install or reinstall dependencies                        |
-| `yarn dev`        | Start local preview server                               |
-| `yarn build`      | Build your static site, generating `./dist`              |
-| `yarn deploy`     | Deploy your project to Observable                        |
-| `yarn clean`      | Clear the local data loader cache                        |
-| `yarn observable` | Run commands like `observable help`                      |
+| Command           | Description                                 |
+| ----------------- | ------------------------------------------- |
+| `yarn install`    | Install or reinstall dependencies           |
+| `yarn dev`        | Start local preview server                  |
+| `yarn build`      | Build your static site, generating `./dist` |
+| `yarn deploy`     | Deploy your project to Observable           |
+| `yarn clean`      | Clear the local data loader cache           |
+| `yarn observable` | Run commands like `observable help`         |
